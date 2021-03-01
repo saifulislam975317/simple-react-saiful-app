@@ -1,23 +1,38 @@
 import logo from './logo.svg';
 import './App.css';
+import playersData from './data/data.json'
+import { useEffect, useState } from 'react';
+import Header from './components/Header/Header';
+import Players from './components/Header/Players/Players';
+import Selected from './components/Selected/Selected';
+import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
+
+
 
 function App() {
+  const [players, setPlayers]=useState([]);
+  const [selected, setSelected]=useState([]);
+  useEffect(()=>{
+    setPlayers(playersData);
+    
+  },[])
+
+  const handleAddPlayer =(player)=>{
+    const newSelected=[...selected, player];
+    setSelected(newSelected)
+  }
+  
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div >
+
+        <Header players={players}></Header>
+        
+        <Selected selected={selected}></Selected>
+        
+          {
+            players.map(player=><Players player={player}  handleAddPlayer={handleAddPlayer} key={player.id}></Players>)
+          }
+         
     </div>
   );
 }

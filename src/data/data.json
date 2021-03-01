@@ -1,0 +1,125 @@
+[{
+  "id": 1,
+  "name": "Tamim Iqbal",
+  "gender": "Male",
+  "salary": 400000,
+  "img": "https://www.cricwaves.com/cricket/pics/players/Tamim-iqbal.jpg"
+}, 
+
+{
+  "id": 2,
+  "name": "Shakib al hasan",
+  "gender": "Male",
+  "salary": 390000,
+  "img": "https://crickettimes.com/wp-content/uploads/2020/11/Shakib-Al-Hasan.jpg"
+}, 
+
+{
+  "id": 3,
+  "name": "Mushifiqure Rahmim",
+  "gender": "Male",
+  "salary": 370000,
+  "img":"https://m.cricbuzz.com/a/img/v1/192x192/i1/c170916/mushfiqur-rahim.jpg"
+}, {
+  "id": 4,
+  "name": "Mahmudullah Riyad",
+  "gender": "Male",
+  "salary": 360000,
+  "img": "https://www.geo.tv/assets/uploads/updates/2020-11-08/317551_4485416_updates.jpg"
+}, {
+  "id": 5,
+  "name": "Mashrafee Mortoza",
+  "gender": "Male",
+  "salary": 350000,
+  "img": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170920/mashrafe-mortaza.jpg"
+}, {
+  "id": 6,
+  "name": "Imrul Kayes",
+  "gender": "Male",
+  "salary": 340000,
+  "img": "https://www.bdcrictime.com/wp-content/uploads/2020/05/imrul-kayes--1280x720.jpg"
+}, {
+  "id": 7,
+  "name": "Sabbir Rahman",
+  "gender": "Male",
+  "salary": 330000,
+  "img": "https://superstarsbio.com/wp-content/uploads/2018/11/Sabbir-Rahman-age.jpg"
+}, {
+  "id": 8,
+  "name": "Soumya Sarkar",
+  "gender": "Male",
+  "salary": 320000,
+  "img": "https://upload.wikimedia.org/wikipedia/commons/d/df/Soumya-Sarkar.jpg"
+}, {
+  "id": 9,
+  "name": "Liton Das",
+  "gender": "Male",
+  "salary": 310000,
+  "img": "https://www.indiafantasy.com/wp-content/uploads/2019/08/imgpsh_fullsize_anim-8.jpg"
+}, {
+  "id": 10,
+  "name": "Taskin Ahmed",
+  "gender": "Male",
+  "salary": 300000,
+  "img": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c156212/taskin-ahmed.jpg"
+}, {
+  "id": 11,
+  "name": "Mustafizur Rahman",
+  "gender": "Male",
+  "salary": 290000,
+  "img": "https://s.ndtvimg.com/images/content/2016/feb/806/mustafizur-rehman-celebates.jpg"
+}, {
+  "id": 12,
+  "name": "Rubel Hossain",
+  "gender": "Male",
+  "salary": 200000,
+  "img": "https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2017/09/19/Pictures/rubel-hossain_1832fc4a-9d10-11e7-a38e-8ee9fe2ac8e7.jpg"
+}, {
+  "id": 13,
+  "name": "Arafat Sunny",
+  "gender": "Male",
+  "salary": 270000,
+  "img": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201701/arafatsunny_fb_647_012217035741.jpg"
+}, {
+  "id": 14,
+  "name": "Taijul islam",
+  "gender": "Male",
+  "salary": 260000,
+  "img": "https://starsunfolded.com/wp-content/uploads/2017/02/Taijul-Islam-profile.jpg"
+}, {
+  "id": 15,
+  "name": "Abdur Razzak",
+  "gender": "Male",
+  "salary": 250000,
+  "img": "https://www.bdcrictime.com/wp-content/uploads/2017/04/8818.jpg"
+}, {
+  "id": 16,
+  "name": "Abul Hasan",
+  "gender": "Male",
+  "salary": 240000,
+  "img": "https://www.daily-bangladesh.com/media/imgAll/2018April/SM/Abul-Hasan-1-180530104758.jpg"
+}, {
+  "id": 17,
+  "name": "Shadat Hossain",
+  "gender": "Male",
+  "salary": 230000,
+  "img": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c155471/shahadat-hossain.jpg"
+}, {
+  "id": 18,
+  "name": "Mehedi Miraz",
+  "gender": "Male",
+  "salary": 220000,
+  "img": "https://resources.pulse.icc-cricket.com/ICC/photo/2018/09/15/a15177d6-488e-41cd-ab97-0da94b71e457/GettyImages-1033681808.jpg"
+}, {
+  "id": 19,
+  "name": "Nazmul hossain shanto",
+  "gender": "Male",
+  "salary": 210000,
+  "img": "https://www.bdcrictime.com/wp-content/uploads/2019/11/shanto.jpg"
+}, {
+  "id": 20,
+  "name": "Afif hossain",
+  "gender": "Male",
+  "salary": 200000,
+  "img": "https://1.bp.blogspot.com/-p5nAxq-sIpg/X3GHpweN01I/AAAAAAAAAGk/2-HyKFPr2oUbUHGVpOJpFC9OZCuc3YTwQCLcBGAsYHQ/s320/afife%2Bhossaint.jpg"
+}]

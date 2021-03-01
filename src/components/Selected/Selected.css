@@ -1,0 +1,47 @@
+
+
+.selected-player-container {
+    background-color: teal;
+    text-align: center;
+    line-height: 50px;
+    padding: 8px;
+}
+
+.selected-player-container h1 {
+    color: greenyellow;
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.selected-player-container h2 {color: aliceblue;font-weight: 700;}
+
+.selected-player-container h3 {
+    color: goldenrod;
+}
+
+.players-details {
+    
+}
+
+li {
+    border: 1px solid black;
+    display: inline-block;
+    box-shadow: 10px 10px 10px darkslategray;
+    width: 152px;
+    height: 244px;
+    padding: 20px;
+    margin: 9px;
+    background-color: skyblue;
+    border-radius: 22px;
+}
+li:hover {
+    background-color: darkgrey;
+    color: black;
+}
+
+img.selected-img {
+    width: 70px;
+    height: 70px;
+    border-radius: 39px;
+    text-align: center;
+}

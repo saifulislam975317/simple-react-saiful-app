@@ -1,0 +1,11 @@
+.title {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 900;
+    background-color: black;
+    color: darkorange;
+    line-height: 100px;
+}
+.title h2{
+    color:cyan;
+}

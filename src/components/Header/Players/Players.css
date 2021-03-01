@@ -1,0 +1,40 @@
+.players-container img{
+    height: 200px;
+    width:200px;
+    
+}
+
+
+button.addButton {
+    width: 200px;
+    height: 28px;
+    background-color: darkgoldenrod;
+    color: white;
+    padding: 3px;
+    border-radius: 5px;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.addButton:hover{
+    background-color: cyan;
+    color: black;
+}
+
+.players-container {
+    display: inline-block;
+    border: 1px solid black;
+    padding: 12px;
+    margin: 16px;
+    background-color: cornflowerblue;
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 12px;
+}
+.players-container:hover{
+    background-color: cadetblue;
+}
+
+.single-player-container {
+    text-align: center;
+}
+
